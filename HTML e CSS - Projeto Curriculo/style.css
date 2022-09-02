@@ -1,0 +1,82 @@
+ body {
+    background: #e9e8e8;
+    font-family: 'Raleway', sans-serif;
+    color: rgb(15, 15, 15);
+    margin: 0;
+ }
+ .container{
+    width: 900px;
+    margin: 0 auto;
+ }
+ .comeco{
+    text-align: center;
+    margin-bottom: 40px;
+ }
+
+ h1{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 40px;
+
+ }
+ h2{
+   margin-top: 0px; 
+   font-style: italic;
+   color: #5c5c5c;
+   font-weight: 200px;
+   letter-spacing: -1px;
+ }
+ h4 {
+    margin-bottom: 5px;
+ }
+ h5 {
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-weight: 100;
+    font-style: italic;
+
+    }
+
+ .foto{
+    width:300px;
+    border: 5px solid  rgb(22, 126, 57);; /*shorthand*/
+    border-radius: 150px;
+    margin: 30px 0 30px;
+    box-shadow: 20px 20px 10px grey;
+
+    
+    /* 
+    border width: 5px;
+    border-color: black;
+    border-style: solid;
+    */
+    
+ }
+.social-links{
+    text-decoration: none;
+
+}
+.social-icons{
+    width: 20px;
+}
+.github{
+    margin: 0 15px 0 15px;
+}
+ h3 {
+    background-color: rgb(252, 252, 252);
+    color: rgb(0, 0, 0);
+ }
+ .jobs-list{
+    list-style:none;
+    padding-left: 20px;
+
+ }
+ .footer{
+    margin-top: 40px;
+    background-color: rgb(22, 126, 57);
+    color: white;
+    text-align: center;
+    padding: 10px 0;  
+    font-size: large;
+ }
